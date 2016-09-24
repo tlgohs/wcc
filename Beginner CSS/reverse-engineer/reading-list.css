@@ -1,0 +1,84 @@
+body {
+    background-image:url(http://practice-pixels.s3.amazonaws.com/texture-blue.jpg
+);
+}
+
+img {
+    display:block;
+    width:75px;
+    margin: 0 auto;;
+}
+
+h1 {
+    text-align: center;
+    color: #D42A1D;
+    font-family: Helvetica;
+    margin:0px;
+    padding:0px;
+}
+
+h3 {
+
+    font-family: Helvetica;
+    margin:0px;
+    padding:0px;
+}
+
+h4 {
+    font-style:italic;
+    font-family: Helvetica;
+    margin:0px;
+    padding:0px;
+}
+
+u {
+    text-decoration: underline;
+}
+
+p {
+    font-family:Georgia;
+}
+
+a {
+    font-family: Helvetica;
+
+}
+
+a:link {
+    color:#D42A1D;
+}
+
+a:visited {
+    color:#D42A1D;
+}
+
+a:hover {
+    color:#185A96;
+}
+
+a:active {
+    color:#185A96;
+}
+
+.main-container {
+    background-color:white;
+    width:750px;
+    margin:auto;
+    margin-top:60px;
+    margin-bottom:60px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+
+.inner-container {
+    background-color:#EEEEEE;
+    width:700px;
+    margin:auto;
+    margin-top:20px;
+    padding:10px;
+}
+
+#footer {
+    text-align:center;
+    font-family: Helvetica;
+}
